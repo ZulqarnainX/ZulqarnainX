@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  ![Main Cover](Main.png)
+  <img src="Main.png" alt="Main Cover" />
 </div>
 
 ###
