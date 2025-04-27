@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zulqarnain and I'm a Full-Stack-Dev, from Pakistan</h2>
+<h2 align="left">Hi there! 👋 I'm Zulqarnain, Full-Stack Developer from Pakistan.</h2>
 
 ###
 
