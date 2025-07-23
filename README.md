@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="Main.png" alt="Main Cover" />
+  <img src="Main.jpg" alt="Main Cover" />
 </div>
 
 ###
